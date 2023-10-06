@@ -1,7 +1,16 @@
 #include <iostream>
 
 int main(){
-  std::cout << "hello, mu name is yousef" << std::endl;
+  std::cout << "Line 1 \n";
+  std::cout << "Line 2 \n";
+  std::cout << "Line 3 \n";
   return 0;
 }
 
+
+/* 
+  this is a multi line comment
+  this is a multi line comment
+  this is a multi line comment
+*/
+// this is a single line comment
